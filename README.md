@@ -1,3 +1,3 @@
-# SOCAR_analysis
+# company_analysis
 
-개인적인 SOCAR 기업 분석을 위한 프로젝트
+지원하고자 하는 기업들의 현황 파악을 위한 여론 분석 프로젝트
